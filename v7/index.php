@@ -229,7 +229,7 @@ However i keep on saying I'll fall short of words to describe more about me and 
 		<i class="fa fa-facebook fa-fw w3-text-white fa-2x w3-margin-right"> </i> facebook </a></p>
 		<p><a href="https://www.youtube.com/channel/UCQb-u17aYKt-AMaS42u2skw" title="channel: ÐëvDeveloper" target="_blank">
 		<i class="fa fa-youtube-play fa-fw w3-text-white fa-2x w3-margin-right"></i> YouTube </a></p>
-		<p><a href="https://in.linkedin.com/in/ashish-sondagar-8a0450114" title="profile: Ashish Sondagar" target="_blank">
+		<p><a href="https://www.linkedin.com/in/ashish-sondagar/" title="profile: Ashish Sondagar" target="_blank">
 		<i class="fa fa-linkedin fa-fw w3-text-white fa-2x w3-margin-right"></i> LinkedIn </a></p>
 		<p><a href="https://www.instagram.com/ashish1997it/" target="_blank">
 		<i class="fa fa-instagram fa-fw w3-text-white fa-2x w3-margin-right"></i> Instagram </a></p>
